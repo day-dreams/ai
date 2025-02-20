@@ -6,27 +6,12 @@
 
 <summary>CMUDL 对我来说非常合适的深度学习入门课程。</summary>
 
-课程包括深度学习基本原理+实践，涵盖了以下内容：
-* 正向传播/损失函数/梯度下降
-* softmax
-* 反向传导/自动微分
-* DNN
-* 卷积
-* transformer和LLM
+[我的笔记](./resource/CMUDL/)
 
-### Lecture1
-### Lecture2
-### Lecture3
-### Lecture4
-### Lecture5
-### Lecture6
-
-### Lecture1
-### Lecture2
-### Lecture3
-### Lecture4
-### Lecture5
-### Lecture6
+* lecture 2&&3 罗辑回归 + NurualNetworks
+  * 配套作业，如何用numpy自己搞一个罗辑回归/nn来结局minst识别问题
+  * [Lecture%203%20neural%20network的求解方法](./resource/CMUDL/Lecture%203%20neural%20network的求解方法.pdf)
+  * [lecture2如何解决线性变化+softmax问题](./resource/CMUDL/lecture2如何解决线性变化+softmax问题.pdf)
 
 </details>
 
